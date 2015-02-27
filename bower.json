@@ -1,0 +1,8 @@
+{
+  "name": "simple-modal-login",
+  "description": "A simple modal window login, use your own design and the library will keep track of logins and even facebook login.",
+  "main": "dist/simple-modal-login.js",
+  "version": "1.0.0",
+  "dependencies": {}
+}
+
